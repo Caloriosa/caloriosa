@@ -1,18 +1,20 @@
 <!-- Specify User story. If you writing epic, you can remove this template (excepts footer) and write epic specs -->
 
-> As **who** <br />
-> I want **what** <br />
-> I could **what** <br />
+### User story
 
-## Specifications
+As **who** <br />
+I want **what** <br />
+I could **what** <br />
+
+### Specifications
 
 <!-- Enter specification here (OPTIONAL) -->
 
-## Steps to reproduce 
+### Steps to reproduce 
 
 <!-- If reporting defect/bug -->
 
-## Acceptance criteria <!-- If exists -->
+### Acceptance criteria <!-- If exists -->
 
 <!-- 
 Enter acceptance here as list:
