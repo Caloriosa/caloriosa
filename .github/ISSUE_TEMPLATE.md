@@ -1,10 +1,8 @@
 <!-- Specify User story. If you writing epic, you can remove this template (excepts footer) and write epic specs -->
 
-As **who**
-
-I want **what**
-
-I could **what**
+> As **who** <br />
+> I want **what** <br />
+> I could **what** <br />
 
 ## Specifications
 
