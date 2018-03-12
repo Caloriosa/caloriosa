@@ -1,6 +1,27 @@
-# Topic <!-- Enter real topic here -->
+<!-- Specify User story. If you writing epic, you can remove this template (excepts footer) and write epic specs -->
 
-<!-- Enter issue body here -->
+As **who**
+
+I want **what**
+
+I could **what**
+
+## Specifications
+
+<!-- Enter specification here (OPTIONAL) -->
+
+## Steps to reproduce 
+
+<!-- If reporting defect/bug -->
+
+## Acceptance criteria <!-- If exists -->
+
+<!-- 
+Enter acceptance here as list:
+- criteria 1
+- criteria 2
+- ...
+-->
 
 ---
 
