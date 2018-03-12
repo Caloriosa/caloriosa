@@ -1,6 +1,6 @@
 <!-- Specify User story. If you writing epic, you can remove this template (excepts footer) and write epic specs -->
 
-### User story
+## User story
 
 As **who** <br />
 I want **what** <br />
